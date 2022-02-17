@@ -11353,7 +11353,7 @@ Resources,Ressurser,module,Magento_User
 Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,Advarsel! \r\n Denne handlingen vil fjerne brukeren fra allerede tildelte rolle\r\n Er du sikker?,module,Magento_User
 Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,Advarsel! \r\n Denne handlingen vil fjerne brukerene fra allerede tildelte rolle\r\n Er du sikker?,module,Magento_User
 Password Reset Confirmation for %name,Bekreftelse på tilbakestilling av passord for %name,module,Magento_User
-"%name,","%navn,",module,Magento_User
+"%name,","%name,",module,Magento_User
 There was recently a request to change the password for your account.,Det var nylig en forespørsel om å endre passordet for din konto.,module,Magento_User
 "If you requested this change, reset your password here:","Hvis du forespurte denne endringen, tilbakestill passordet her:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Hvis du ikke har sendt denne forespørselen, kan du ignorere denne e-posten og passordet vil forbli det samme som før.",module,Magento_User

@@ -3495,7 +3495,7 @@ Company,Bedrift,module,Magento_Company
 Change,Endre,module,Magento_Company
 "This action will replace your Company Admin.","Denne handlingen vil erstatte din firmaadministrator.",module,Magento_Company
 "* Your latest changes on the company profile have not been saved yet.","*Din seneste forandring på firmaprofilen har ikke blitt lagret enda.",module,Magento_Company
-"Dear %name,","Kjære %navn,",module,Magento_Company
+"Dear %name,","Kjære %name,",module,Magento_Company
 "You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.",module,Magento_Company
 "When you sign in to your account, you can:","Når du logger inn på kontoen din, vil du kunne:",module,Magento_Company
 "* Create and manage company users and teams","* Create and manage company users and teams",module,Magento_Company
@@ -3532,7 +3532,7 @@ Change,Endre,module,Magento_Company
     Once you login, you will be able to place orders on behalf of your company
     and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.",module,Magento_Company
-"%name,","%navn,",module,Magento_Company
+"%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative.",module,Magento_Company
 "When you sign in to your account, you will be able to:","Når du logger inn på kontoen din, vil du kunne:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel",module,Magento_Company
@@ -3739,7 +3739,7 @@ Edit,Edit,module,Magento_CompanyCredit
 "Charged off the company credit","Charged off the company credit",module,Magento_CompanyCredit
 "The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.",module,Magento_CompanyCredit
 "Credit allocated to %company_name","Credit allocated to %company_name",module,Magento_CompanyCredit
-"Dear %name,","Kjære %navn,",module,Magento_CompanyCredit
+"Dear %name,","Kjære %name,",module,Magento_CompanyCredit
 "Your company has been allocated a credit of %available_credit.
     You can now use the Payment On Account method to place you orders.","Your company has been allocated a credit of %available_credit.
     You can now use the Payment On Account method to place you orders.",module,Magento_CompanyCredit
@@ -13779,7 +13779,7 @@ Resources,Ressurser,module,Magento_User
 "or call us at %store_phone","eller ring oss på %store_phone",module,Magento_User
 "Thanks,","Takk,",module,Magento_User
 "Password Reset Confirmation for %name","Bekreftelse på tilbakestilling av passord for %name",module,Magento_User
-"%name,","%navn,",module,Magento_User
+"%name,","%name,",module,Magento_User
 "There was recently a request to change the password for your account.","Det var nylig en forespørsel om å endre passordet for din konto.",module,Magento_User
 "If you requested this change, reset your password here:","Hvis du forespurte denne endringen, tilbakestill passordet her:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Hvis du ikke har sendt denne forespørselen, kan du ignorere denne e-posten og passordet vil forbli det samme som før.",module,Magento_User

@@ -3916,7 +3916,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Change","Endre",module,Magento_Company
 "This action will replace your Company Admin.","Denne handlingen vil erstatte din firmaadministrator.",module,Magento_Company
 "* Your latest changes on the company profile have not been saved yet.","*Din seneste forandring på firmaprofilen har ikke blitt lagret enda.",module,Magento_Company
-"Dear %name,","Kjære %navn,",module,Magento_Company
+"Dear %name,","Kjære %name,",module,Magento_Company
 "You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.",module,Magento_Company
 "When you sign in to your account, you can:","Når du logger inn på kontoen din, vil du kunne:",module,Magento_Company
 "* Create and manage company users and teams","* Create and manage company users and teams",module,Magento_Company
@@ -3953,7 +3953,7 @@ is now <strong>Active</strong>.,module,Magento_Company
 Once you login, you will be able to place orders on behalf of your company,module,Magento_Company
 and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.",module,Magento_Company
-"%name,","%navn,",module,Magento_Company
+"%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative.",module,Magento_Company
 "When you sign in to your account, you will be able to:","Når du logger inn på kontoen din, vil du kunne:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel",module,Magento_Company
@@ -4164,7 +4164,7 @@ Customers will not be able to place orders until you update the credit currency.
 "Charged off the company credit","Charged off the company credit",module,Magento_CompanyCredit
 "The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.",module,Magento_CompanyCredit
 "Credit allocated to %company_name","Credit allocated to %company_name",module,Magento_CompanyCredit
-"Dear %name,","Kjære %navn,",module,Magento_CompanyCredit
+"Dear %name,","Kjære %name,",module,Magento_CompanyCredit
 "Your company has been allocated a credit of %available_credit.,module,Magento_CompanyCredit
 You can now use the Payment On Account method to place you orders.","Your company has been allocated a credit of %available_credit.,module,Magento_CompanyCredit
 You can now use the Payment On Account method to place you orders.",module,Magento_CompanyCredit
@@ -5084,7 +5084,7 @@ new products will be created. Use this step to customize images and price for yo
 "Tax/VAT number","Mva-nummer",module,Magento_Customer
 "Phone Number","Telefonnummer",module,Magento_Customer
 "Welcome to %store_name","Velkommen til %store_name",module,Magento_Customer
-"%name,","%navn,",module,Magento_Customer
+"%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Velkommen til %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","For å logge deg på nettstedet vårt, kan du bruke disse opplysningene i kassen eller på siden <a href=""%customer_url""> Min konto</a>:",module,Magento_Customer
 "Email:","E-Post:",module,Magento_Customer
@@ -5403,7 +5403,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Remove","Fjern",module,Magento_CustomerBalance
 "Refunded to Store Credit","Refunded to Store Credit",module,Magento_CustomerBalance
 "Store Credit update","Store Credit update",module,Magento_CustomerBalance
-"%name,","%navn,",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_CustomerBalance
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.",module,Magento_CustomerBalance
 "Your Store Credit balance is now %balance.","Your Store Credit balance is now %balance.",module,Magento_CustomerBalance
 "Store credit","Store credit",module,Magento_CustomerBalance
@@ -6712,7 +6712,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Availability","Tilgjengelighet",module,Magento_GiftCard
 "In stock","På lager",module,Magento_GiftCard
 "You've been sent a gift from %store_name","You've been sent a gift from %store_name",module,Magento_GiftCard
-"%name,","%navn,",module,Magento_GiftCard
+"%name,","%name,",module,Magento_GiftCard
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.",module,Magento_GiftCard
 "Gift Card Codes:","Gift Card Codes:",module,Magento_GiftCard
 "Gift Card Code:","Gift Card Code:",module,Magento_GiftCard
@@ -6850,7 +6850,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Add or remove gift cards","Add or remove gift cards",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Gift Card amount applied to order:",module,Magento_GiftCardAccount
 "You've been sent a gift from %store_name","You've been sent a gift from %store_name",module,Magento_GiftCardAccount
-"%name,","%navn,",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftCardAccount
 "You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.",module,Magento_GiftCardAccount
 "Gift Card Code: %code","Gift Card Code: %code",module,Magento_GiftCardAccount
 "The card has a balance of %balance and can be used at ","The card has a balance of %balance and can be used at ",module,Magento_GiftCardAccount
@@ -7210,7 +7210,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Unit Price","Enhetspris",module,Magento_GiftRegistry
 "Add to Cart","Legg i handlekurv",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Gift Registry created at %store_name",module,Magento_GiftRegistry
-"%name,","%navn,",module,Magento_GiftRegistry
+"%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","You have successfully created the new gift registry ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Din gaveregister melding",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Now you can add products to your gift registry.",module,Magento_GiftRegistry
@@ -10050,7 +10050,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Product alerts Cron error","Product alerts Cron error",module,Magento_ProductAlert
 "Product alerts cron warnings","Product alerts cron warnings",module,Magento_ProductAlert
 "Products price changed alert","Products price changed alert",module,Magento_ProductAlert
-"%name,","%navn,",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
 "Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert
 "Product Alerts","Produktmeldinger",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Allow Alert When Product Price Changes",module,Magento_ProductAlert
@@ -10655,7 +10655,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Validate error 2","Valideringfeil 2",module,Magento_Reminder
 "text","text",module,Magento_Reminder
 "Promotion reminder at %store_name","Promotion reminder at %store_name",module,Magento_Reminder
-"%name,","%navn,",module,Magento_Reminder
+"%name,","%name,",module,Magento_Reminder
 "Hurry up to take advantage of our %promotion_name promotion!","Hurry up to take advantage of our %promotion_name promotion!",module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","Hurry up to take advantage of this promotion!",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","For å benytte deg av kampanjen må du logge deg på <a href=""%account_url"">%store_name</a> og bruke rabattkoden ""%coupon_code"" i handlekurven.",module,Magento_Reminder
@@ -11277,7 +11277,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Email Notification Settings","Email Notification Settings",module,Magento_Reward
 "Save Subscription Settings","Save Subscription Settings",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","Reward Points Balance Updated at %store_name",module,Magento_Reward
-"%name,","%navn,",module,Magento_Reward
+"%name,","%name,",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","You have %points_balance points that may be used in our store:",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.",module,Magento_Reward
 "Reward Points Expiry Warning at %store_name","Reward Points Expiry Warning at %store_name",module,Magento_Reward
@@ -11659,7 +11659,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "New Comment for RMA #%increment_id","New Comment for RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","Customer %name has left a new comment:",module,Magento_Rma
 "%store_name : New Return #%increment_id","%store_name : New Return #%increment_id",module,Magento_Rma
-"%name,","%navn,",module,Magento_Rma
+"%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","Your return request has been updated. Please see below.",module,Magento_Rma
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Hvis du har spørsmål, ta gjerne kontakt oss på <a href=""mailto:%support_email"">%support_email</a> eller på telefon %store_phone",module,Magento_Rma
@@ -12419,7 +12419,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Add to Cart","Legg i handlekurv",module,Magento_Sales
 "Search","Søk",module,Magento_Sales
 "Credit memo for your %store_name order","Kreditnota for bestillingen %store_name",module,Magento_Sales
-"%name,","%navn,",module,Magento_Sales
+"%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Takk for bestillingen din fra %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Du kan sjekke statusen for bestillingen din ved å <a href=""%account_url""> logge inn på din konto</a>.",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Hvis du har spørsmål om bestillingen, kan du sende oss epost på <a href=""mailto:%store_email""> %store_email</a>",module,Magento_Sales
@@ -13252,7 +13252,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Send Email","Send e-post",module,Magento_SendFriend
 "Back","Tilbake",module,Magento_SendFriend
 "Welcome, %name","Welcome, %name",module,Magento_SendFriend
-"%name,","%navn,",module,Magento_SendFriend
+"%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name ønsker å dele dette produktet med deg:",module,Magento_SendFriend
 "Message from %sender_name:","Melding fra %sender_name:",module,Magento_SendFriend
 "Email to a Friend","Email to a Friend",module,Magento_SendFriend
@@ -14678,7 +14678,7 @@ than a customer might expect. ",module,Magento_Tax
 "Time","Tid",module,Magento_Theme
 "Hour","Time",module,Magento_Theme
 "Minute","Minutt",module,Magento_Theme
-"%name,","%navn,",module,Magento_Theme
+"%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Velkommen til %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","For å logge deg på nettstedet vårt, kan du bruke disse opplysningene i kassen eller på siden <a href=""%customer_url""> Min konto</a>:",module,Magento_Theme
 "Email:","E-Post:",module,Magento_Theme
@@ -15331,7 +15331,7 @@ formElements/*[name(.)=../../@formElement]/settings/title                    ",m
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Advarsel! \r\n Denne handlingen vil fjerne brukeren fra allerede tildelte rolle\r\n Er du sikker?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Advarsel! \r\n Denne handlingen vil fjerne brukerene fra allerede tildelte rolle\r\n Er du sikker?",module,Magento_User
 "Password Reset Confirmation for %name","Bekreftelse på tilbakestilling av passord for %name",module,Magento_User
-"%name,","%navn,",module,Magento_User
+"%name,","%name,",module,Magento_User
 "There was recently a request to change the password for your account.","Det var nylig en forespørsel om å endre passordet for din konto.",module,Magento_User
 "If you requested this change, reset your password here:","Hvis du forespurte denne endringen, tilbakestill passordet her:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Hvis du ikke har sendt denne forespørselen, kan du ignorere denne e-posten og passordet vil forbli det samme som før.",module,Magento_User
@@ -16227,7 +16227,7 @@ formElements/*[name(.)=../../@formElement]/settings/title                    ",m
 "Clear All","Tøm alt",theme,frontend/Magento/luma
 "Shopping Options","Butikkalternativer",theme,frontend/Magento/luma
 "Welcome to %store_name","Velkommen til %store_name",theme,frontend/Magento/luma
-"%name,","%navn,",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Velkommen til %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","For å logge deg på nettstedet vårt, kan du bruke disse opplysningene i kassen eller på siden <a href=""%customer_url""> Min konto</a>:",theme,frontend/Magento/luma
 "Email:","E-Post:",theme,frontend/Magento/luma
