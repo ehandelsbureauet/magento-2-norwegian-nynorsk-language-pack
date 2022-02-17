@@ -1,7 +1,7 @@
 {
-  "name": "mageplaza/magento-2-norwegian-language-pack",
-  "description": "Norwegian language package for Magento 2",
-  "homepage": "https://www.mageplaza.com",
+  "name": "ehandelsbureauet/magento-2-norwegian-language-pack",
+  "description": "This is a fork of Mageplaza Norwegian language package for Magento 2",
+  "homepage": "https://ehandelsbureauet.dk",
   "require": {
     "mageplaza/module-core": "^1.3.13"
   },
@@ -13,10 +13,10 @@
   ],
   "authors": [
     {
-      "name": "Mageplaza team",
-      "email": "hi@mageplaza.com",
-      "homepage": "https://www.mageplaza.com",
-      "role": "Leader"
+      "name": "Artem Kolisnichenko",
+      "email": "ark@wogw.dk",
+      "homepage": "https://ehandelsbureauet.dk",
+      "role": "Developer"
     }
   ],
   "autoload": {
